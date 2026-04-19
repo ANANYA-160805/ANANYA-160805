@@ -47,31 +47,6 @@
 * GitHub
 * Postman
 
----
-
-## 🚀 Projects
-
-### 📱 AI Social Media App (Work in Progress)
-
-A simple social media platform with AI-powered features.
-
-**Features:**
-
-* User Authentication (Signup/Login)
-* Profile Page
-* Create Posts (Image Upload)
-* AI-generated captions using Gemini API
-* Like functionality
-
-**Tech Stack:**
-
-* React + SCSS
-* Node.js + Express
-* MongoDB
-
-👉 Goal: Build a complete, production-level full stack app
-
----
 
 ## 📚 Currently Learning
 
@@ -86,13 +61,7 @@ A simple social media platform with AI-powered features.
 * Solving DSA problems consistently
 * Building full stack projects from scratch
 
----
 
-## 📊 GitHub Stats
-
-
-
----
 
 ## 🤝 Connect With Me
 
