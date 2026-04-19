@@ -1,16 +1,105 @@
-## Hi there 👋
+# 👋 Hi, I'm Ananya
 
-<!--
-**ANANYA-160805/ANANYA-160805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | MERN Stack | DSA Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+🎓 AIML Student (3rd Year)
+📍 India 🇮🇳
+💡 Focused on building real-world full stack applications
+
+* 🔭 Currently working on MERN Projects
+* 🌱 Learning Backend Development & API Design
+* 💬 Ask me about React, Node.js,DSA
+* ⚡ Reality: Still learning, but building consistently
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+* Java
+* JavaScript
+
+### 🎨 Frontend
+
+* React.js
+* Next.js
+* SCSS
+* HTML5
+* CSS3
+
+### ⚙️ Backend
+
+* Node.js
+* Express.js
+
+### 🗄️ Database
+
+* MongoDB
+
+### 🧰 Tools
+
+* Git
+* GitHub
+* Postman
+
+---
+
+## 🚀 Projects
+
+### 📱 AI Social Media App (Work in Progress)
+
+A simple social media platform with AI-powered features.
+
+**Features:**
+
+* User Authentication (Signup/Login)
+* Profile Page
+* Create Posts (Image Upload)
+* AI-generated captions using Gemini API
+* Like functionality
+
+**Tech Stack:**
+
+* React + SCSS
+* Node.js + Express
+* MongoDB
+
+👉 Goal: Build a complete, production-level full stack app
+
+---
+
+## 📚 Currently Learning
+
+* Backend Architecture (proper folder structure, scalability)
+* REST API Design
+* DSA (for interviews)
+
+---
+
+## 🏆 Achievements (Keep it real)
+
+* Solving DSA problems consistently
+* Building full stack projects from scratch
+
+---
+
+## 📊 GitHub Stats
+
+
+
+---
+
+## 🤝 Connect With Me
+
+* LinkedIn: in/ananya-sinha-724421307
+* Email: ananyasinha1599@gmail.com
+
+---
+
+
+---
