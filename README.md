@@ -56,7 +56,7 @@
 
 ---
 
-## 🏆 Achievements (Keep it real)
+## 🏆 Achievements
 
 * Solving DSA problems consistently
 * Building full stack projects from scratch
