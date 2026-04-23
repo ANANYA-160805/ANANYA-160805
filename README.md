@@ -52,7 +52,7 @@
 
 * Backend Architecture (proper folder structure, scalability)
 * REST API Design
-* DSA (for interviews)
+* DSA 
 
 ---
 
