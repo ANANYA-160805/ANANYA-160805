@@ -50,7 +50,7 @@
 
 ## 📚 Currently Learning
 
-* Backend Architecture (proper folder structure, scalability)
+* Backend Architecture 
 * REST API Design
 * DSA 
 
