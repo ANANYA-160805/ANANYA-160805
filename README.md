@@ -40,7 +40,7 @@
 
 ## 🤝 Connect With Me
 
-*<img src = "https://github.com/Mayur-Pagote/README_Design_Kit/blob/main/public/Assets/linkedin-1.png" width="100">: in/ananya-sinha-724421307
+*Linkedin: in/ananya-sinha-724421307
 * Email: ananyasinha1599@gmail.com
 
 ---
