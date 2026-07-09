@@ -47,6 +47,8 @@
 * GitHub
 * Postman
 
+* ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ANANYA-160805&theme=radical)
+
 
 ## 📚 Currently Learning
 
