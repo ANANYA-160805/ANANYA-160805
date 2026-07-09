@@ -11,9 +11,13 @@
 💡 Focused on building real-world full stack applications
 
 🔭 Currently building MERN Stack projects
+
 ✅ Skilled in React, Node.js, Express.js, MongoDB, REST APIs & JWT Authentication
+
 🌱 Currently learning DevOps, Docker, Cloud Deployment & System Design
+
 💬 Ask me about React, Node.js, Express.js, MongoDB, REST APIs & Java DSA
+
 ⚡ Consistently learning by building projects
 
 ---
