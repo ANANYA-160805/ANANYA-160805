@@ -28,12 +28,6 @@
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ANANYA-160805&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph)
 
 
-## 📚 Currently Learning
-
-* Backend Architecture 
-* REST API Design
-* DSA 
-
 ---
 
 ## 🏆 Achievements
