@@ -10,10 +10,11 @@
 📍 India 🇮🇳
 💡 Focused on building real-world full stack applications
 
-* 🔭 Currently working on MERN Projects
-* 🌱 Learning Backend Development & API Design
-* 💬 Ask me about React, Node.js,DSA
-* ⚡ Reality: Still learning, but building consistently
+🔭 Currently building MERN Stack projects
+✅ Skilled in React, Node.js, Express.js, MongoDB, REST APIs & JWT Authentication
+🌱 Currently learning DevOps, Docker, Cloud Deployment & System Design
+💬 Ask me about React, Node.js, Express.js, MongoDB, REST APIs & Java DSA
+⚡ Consistently learning by building projects
 
 ---
 
