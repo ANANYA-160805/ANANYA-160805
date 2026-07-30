@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 AIML Student (3rd Year)
+🎓 AIML Student 
 📍 India 🇮🇳
 💡 Focused on building real-world full stack applications
 
