@@ -39,7 +39,7 @@
 
 ## 🤝 Connect With Me
 
-*Linkedin: in/ananya-sinha-724421307
+  Linkedin: in/ananya-sinha-724421307
 * Email: ananyasinha1599@gmail.com
 
 ---
