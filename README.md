@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ananya
 
-🚀 Full-Stack Developer | MERN Stack | DSA Enthusiast
+🚀 Full-Stack Developer | MERN Stack | Java DSA
 
 ---
 
